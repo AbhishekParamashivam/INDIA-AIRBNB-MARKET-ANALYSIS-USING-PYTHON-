@@ -63,5 +63,5 @@ The project followed a standard data science pipeline:
     * `matplotlib` / `seaborn` (for additional visualizations)
 * **Environment:** Jupyter Notebook (`.ipynb`)
 
-* ## 📁 License
+## 📁 License
 This project is for educational purpose only.

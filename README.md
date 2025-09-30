@@ -1,15 +1,11 @@
 # India Airbnb Market Analysis using Python
 
 ## 🎯 Project Overview
-
 This project conducts an in-depth **Exploratory Data Analysis (EDA)** and **Geospatial Analysis** of the Airbnb market across India. The goal is to uncover key market trends, identify high-demand regions, analyze pricing strategies, and understand the distribution of different listing types and their features based on a dataset of top listings.
-
 This analysis provides valuable insights for potential hosts looking to enter the Indian market, existing hosts aiming to optimize their listings, and travelers seeking an understanding of accommodation options.
 
 ---
-
 ## 📁 Dataset
-
 The analysis is based on a dataset of **500 top-performing Airbnb listings** across India.
 
 ### Key Data Features
@@ -25,7 +21,6 @@ The dataset contains crucial columns for market analysis, including:
 * **`stars`**: Guest rating.
 
 ## 💡 Key Findings and Metrics
-
 The initial analysis of the top 500 listings revealed:
 
 * **Total Market Capacity:** The collective capacity of these listings is **5,780** guests.
@@ -38,7 +33,6 @@ The initial analysis of the top 500 listings revealed:
     5.  Jaipur, Rajasthan
 
 ## 🛠️ Methodology and Analysis Steps
-
 The project followed a standard data science pipeline:
 
 1.  **Data Loading & Inspection:** Loaded the raw data and inspected column types, non-null counts, and memory usage.

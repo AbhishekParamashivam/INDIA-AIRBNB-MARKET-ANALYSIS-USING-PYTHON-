@@ -5,8 +5,11 @@ This project conducts an in-depth **Exploratory Data Analysis (EDA)** and **Geos
 This analysis provides valuable insights for potential hosts looking to enter the Indian market, existing hosts aiming to optimize their listings, and travelers seeking an understanding of accommodation options.
 
 ---
+
 ## 📁 Dataset
 The analysis is based on a dataset of **500 top-performing Airbnb listings** across India.
+
+--- 
 
 ### Key Data Features
 The dataset contains crucial columns for market analysis, including:
@@ -20,6 +23,8 @@ The dataset contains crucial columns for market analysis, including:
 * **`pricing/rate/amount` (renamed to `price`)**: Price per night.
 * **`stars`**: Guest rating.
 
+--- 
+
 ## 💡 Key Findings and Metrics
 The initial analysis of the top 500 listings revealed:
 
@@ -32,6 +37,7 @@ The initial analysis of the top 500 listings revealed:
     4.  Anjuna, Goa
     5.  Jaipur, Rajasthan
 
+--- 
 ## 🛠️ Methodology and Analysis Steps
 The project followed a standard data science pipeline:
 
@@ -44,6 +50,7 @@ The project followed a standard data science pipeline:
 4.  **Geospatial Analysis:** Used geographic data to create a **HeatMap** overlay of the listings, showing the concentration and density of high-priced listings across India using the `folium` library.
 5.  **Feature Relationship Analysis:** Analyzed the relationship between pricing, room type, number of guests, and Superhost status.
 
+--- 
 ## 💻 Technology Stack
 
 * **Language:** Python

@@ -62,3 +62,6 @@ The project followed a standard data science pipeline:
     * `tabulate` (for clean console output of location counts)
     * `matplotlib` / `seaborn` (for additional visualizations)
 * **Environment:** Jupyter Notebook (`.ipynb`)
+
+* ## 📁 License
+This project is for educational purpose only.
